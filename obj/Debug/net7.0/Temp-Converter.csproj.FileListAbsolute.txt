@@ -1,0 +1,15 @@
+/Users/johncastro/Desktop/Temp-Converter/bin/Debug/net7.0/Temp-Converter
+/Users/johncastro/Desktop/Temp-Converter/bin/Debug/net7.0/Temp-Converter.deps.json
+/Users/johncastro/Desktop/Temp-Converter/bin/Debug/net7.0/Temp-Converter.runtimeconfig.json
+/Users/johncastro/Desktop/Temp-Converter/bin/Debug/net7.0/Temp-Converter.dll
+/Users/johncastro/Desktop/Temp-Converter/bin/Debug/net7.0/Temp-Converter.pdb
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/Temp-Converter.csproj.AssemblyReference.cache
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/Temp-Converter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/Temp-Converter.AssemblyInfoInputs.cache
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/Temp-Converter.AssemblyInfo.cs
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/Temp-Converter.csproj.CoreCompileInputs.cache
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/Temp-Converter.dll
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/refint/Temp-Converter.dll
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/Temp-Converter.pdb
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/Temp-Converter.genruntimeconfig.cache
+/Users/johncastro/Desktop/Temp-Converter/obj/Debug/net7.0/ref/Temp-Converter.dll
